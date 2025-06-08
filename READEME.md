@@ -1,1 +1,0 @@
-Collection of mini projexts learned during cources
